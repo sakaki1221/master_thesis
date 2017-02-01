@@ -1,0 +1,82 @@
+%スタイル，パッケージの設定
+\documentclass[12pt,a4]{jreport}%chapterが使えるスタイル
+\usepackage[dvipdfmx]{graphicx}%図の挿入のためのパッケージ
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage{amssymb}
+\usepackage{ascmac}
+\usepackage{framed}
+\usepackage{subcaption}%subcaption
+
+%余白の設定
+\setlength{\textheight}{\paperheight}
+\setlength{\topmargin}{4.6truemm}
+\addtolength{\topmargin}{-\headheight}
+\addtolength{\topmargin}{-\headsep}
+\addtolength{\textheight}{-60truemm}
+\setlength{\textwidth}{\paperwidth}
+\setlength{\oddsidemargin}{-0.4truemm}
+\setlength{\evensidemargin}{-0.4truemm}
+\addtolength{\textwidth}{-50truemm}
+
+%参考文献の設定
+\renewcommand{\bibname}{参考文献}
+
+
+%行間
+\setstretch{1.4}
+
+%表紙
+%\title{卒業論文\\物理現象視覚化ソフトのライブラリ構築}
+%\author{関西学院大学理工学部\\情報科学科 西谷研究室\\1536 榊原　健}
+%\date{2015年3月}
+%\begin{document}
+%\maketitle
+%\newpage
+\begin{document}
+\begin{titlepage}
+    \begin{center}
+    \null
+    \LARGE 理工学研究科\\
+            \vspace{1.5cm}
+    \LARGE 2016年3月\\
+            \vspace{1.5cm}
+    \LARGE 修士論文\\
+            \vspace{2cm}
+    \huge 非調和振動の効果を入れた有限温度の\\自由エネルギー計算\\
+            \vspace{6cm}%論文タイトルの長さによってこの値を調節
+    \LARGE M5308   榊原 健\\(情報科学専攻)
+    \end{center}
+\end{titlepage}
+
+%概要
+\input{../abstract/abstract}
+
+%目次
+\tableofcontents
+
+%本文
+\input{../intro/intro}%序論
+\input{../moment/moment}%moment法
+\input{../method/method}%計算手法
+\input{../result/result}%結果
+\input{../consideration/consideration}%考察
+\input{../summary/summary}%総括
+%\input{../appreciate/appreciate}%謝辞
+%\input{../supplement/supplement}%付録
+
+%参考文献
+
+\begin{thebibliography}{9}
+\bibitem{phonon}K. Parlinski, Z. Q. Li, and Y. Kawazoe, Phys. Rev. Let., {\bf 78} (1997), 4063-4066.
+\bibitem{kiyohara}清原資之, 「Ti結晶多形におけるPhonon第一原理計算」, 関西学院大学 理工学部 卒業論文，2013. 
+\bibitem{jindo}Vu Van Hung, and K. Masuda-Jindo, J. Phys. Soc. Jpn., {\bf 69} (2000), 2067.
+\bibitem{jindo2}Nguyen Tang, and Vu Van Hung, Phys. Stat. Sol., {\bf 149} (1988), 511.
+\bibitem{kittel}宇野良清, 津屋昇, 新関駒二郎, 森田章, 山下次郎, キッテル固体物理学入門 第8版(2005) p.139．
+\bibitem{phonopy}Atsushi Togo and Isao Tanaka, Scr. Mater., {\bf108} (2015),1-5.
+%\bibitem{MD}神山新一著,佐藤明,「分子動力学シミュレーション」(朝倉書店,1997)．
+%\bibitem{akahon}西谷滋人著,「固体物理の基礎」(森北出版,2006)．
+\end{thebibliography}
+
+\end{document}
+%終了

@@ -1,0 +1,625 @@
+This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2015.3.17)  2 FEB 2017 00:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Thesis
+(./Thesis.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2014/05/01> patch level 0)
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/platex/base/jreport.cls
+Document Class: jreport 2006/06/27 v1.6 Standard pLaTeX class
+\c@@paper=\count81
+(/usr/local/texlive/2014/texmf-dist/tex/platex/base/jsize12.clo
+File: jsize12.clo 2006/06/27 v1.6 Standard pLaTeX file (size option)
+)
+\c@part=\count82
+\c@chapter=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 677.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count91
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def
+File: dvipdfmx.def 2014/04/28 v4.01 LaTeX color/graphics driver for dvipdfmx (T
+eX Live/ChoF)
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen123
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen124
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box41
+\strutbox@=\box42
+\big@size=\dimen125
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks17
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks18
+\eqnshift@=\dimen126
+\alignsep@=\dimen127
+\tagshift@=\dimen128
+\tagwidth@=\dimen129
+\totwidth@=\dimen130
+\lineht@=\dimen131
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/platex/base/ascmac.sty
+(/usr/local/texlive/2014/texmf-dist/tex/platex/base/tascmac.sty
+\@savetbaselineshift=\dimen132
+\@saveybaselineshift=\dimen133
+\scb@x=\box43
+\scscb@x=\box44
+\@bw=\dimen134
+\@nbox=\box45
+\@nbody=\box46
+\@scw=\dimen135
+\@itemh=\dimen136
+\@iboxpos=\toks21
+\@iboxstr=\box47
+\@bwsp=\box48
+\@@bwsp=\box49
+\@bcal=\count104
+\shaderule=\dimen137
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip46
+\fb@frw=\dimen138
+\fb@frh=\dimen139
+\FrameRule=\dimen140
+\FrameSep=\dimen141
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen142
+\captionmargin@=\dimen143
+\captionwidth=\dimen144
+\caption@tempdima=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \iftdir \sbox \@tempboxa {#1\hskip 1zw#2}\else \sbox \@tempboxa {#1: #2}\fi \
+ifdim \wd \@tempboxa >\hsize \iftdir #1\hskip 1zw#2\relax \par \else #1: #2\rel
+ax \par \fi \else \global \@minipagefalse \hbox to\hsize {\hfil \box \@tempboxa
+ \hfil }\fi \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count105
+)
+\c@subfigure=\count106
+\c@subtable=\count107
+)
+
+LaTeX Warning: Unused global option(s):
+    [a4].
+
+(./Thesis.aux
+
+LaTeX Warning: Label `eq:y02' multiply defined.
+
+
+LaTeX Warning: Label `tb:free-diff3' multiply defined.
+
+)
+\openout1 = `Thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ [1
+
+] (../abstract/abstract.tex
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
+ [1])
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 56.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 56.
+ (./Thesis.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+])
+\tf@toc=\write3
+\openout3 = `Thesis.toc'.
+
+
+(../intro/intro.tex [2]
+第 1 章
+) (../moment/moment.tex [3
+
+]
+第 2 章
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 5.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 12.
+ [4
+
+] [5] [6]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 138.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 138.
+File: ../image/a4_1_label.eps Graphic file (type eps)
+
+<../image/a4_1_label.eps>
+File: ../image/a4_2_label.eps Graphic file (type eps)
+ <../image/a4_2_label.eps>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 153--165
+[][] [] 
+ []
+
+[7]
+File: ../image/fig1.eps Graphic file (type eps)
+ <../image/fig1.eps> [8] [9]
+Overfull \hbox (22.44164pt too wide) in paragraph at lines 246--249
+\JY1/mc/m/n/12 ここで ， $\OML/cmm/m/it/12 a[]$ \JY1/mc/m/n/12 は第 \OT1/cmr/m/
+n/12 1 \JY1/mc/m/n/12 近接原子 ， $\OML/cmm/m/it/12 a[]$ \JY1/mc/m/n/12 は第 \O
+T1/cmr/m/n/12 2 \JY1/mc/m/n/12 近接原子である ． 同様の操作で $[][] []$ と $[][
+] []$
+ []
+
+[10] [11]) (../method/method.tex [12]
+第 3 章
+
+Overfull \hbox (1.63762pt too wide) in paragraph at lines 2--3
+[]\JY1/mc/m/n/12 本章では ， \OT1/cmr/m/n/12 Mo-ment \JY1/mc/m/n/12 法による計
+算手法 ， また ， 比較対象である ， \OT1/cmr/m/n/12 Phonon-DOS \JY1/mc/m/n/12 
+法 ， \OT1/cmr/m/n/12 Phonopy
+ []
+
+File: ../image/fig2.eps Graphic file (type eps)
+<../image/fig2.eps> [13
+
+]
+
+LaTeX Warning: Command \r invalid in math mode on input line 42.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 42.
+
+File: ../image/lj.eps Graphic file (type eps)
+<../image/lj.eps> [14] [15]
+File: ../image/fit5.eps Graphic file (type eps)
+ <../image/fit5.eps>
+File: ../image/fit1label.eps Graphic file (type eps)
+ <../image/fit1label.eps>
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 103--104
+ [][] 
+ []
+
+File: ../image/fit2label.eps Graphic file (type eps)
+<../image/fit2label.eps>
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 109--110
+ [][] 
+ []
+
+File: ../image/fit3label.eps Graphic file (type eps)
+<../image/fit3label.eps>
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 116--117
+ [][] 
+ []
+
+File: ../image/fit_ag_label.eps Graphic file (type eps)
+<../image/fit_ag_label.eps>
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 122--123
+ [][] 
+ []
+
+File: ../image/fit_au_label.eps Graphic file (type eps)
+<../image/fit_au_label.eps>
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 128--129
+ [][] 
+ []
+
+File: ../image/fit_al_label.eps Graphic file (type eps)
+<../image/fit_al_label.eps>
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 134--135
+ [][] 
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 100--137
+[][] []
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 100--137
+[] []
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 100--137
+[] [] 
+ []
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 156.
+
+[16]
+File: ../image/all_k_label.eps Graphic file (type eps)
+ <../image/all_k_label.eps>
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 164--165
+ [][] 
+ []
+
+File: ../image/all_gamma_label.eps Graphic file (type eps)
+<../image/all_gamma_label.eps>
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 170--171
+ [][] 
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 161--173
+[][] [] 
+ []
+
+[17] [18] [19] [20]
+File: ../image/figure_1.png Graphic file (type bmp)
+ <../image/figure_1.png>
+File: ../image/figure_2.png Graphic file (type bmp)
+ <../image/figure_2.png>
+File: ../image/figure_3.png Graphic file (type bmp)
+
+<../image/figure_3.png>) (../result/result.tex [21] [22]
+第 4 章
+File: ../image_result/Cu_lat_label.eps Graphic file (type eps)
+<../image_result/Cu_lat_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 17--18
+ [][] 
+ []
+
+File: ../image_result/Ag_lat_label.eps Graphic file (type eps)
+<../image_result/Ag_lat_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 23--24
+ [][] 
+ []
+
+File: ../image_result/Au_lat_label.eps Graphic file (type eps)
+<../image_result/Au_lat_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 30--31
+ [][] 
+ []
+
+File: ../image_result/Al_lat_label.eps Graphic file (type eps)
+<../image_result/Al_lat_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 36--37
+ [][] 
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 14--39
+[][] []
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 14--39
+[] [] 
+ []
+
+File: ../image_result/Cu_TEcoeff_label.eps Graphic file (type eps)
+<../image_result/Cu_TEcoeff_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 46--47
+ [][] 
+ []
+
+File: ../image_result/Ag_TEcoeff_label.eps Graphic file (type eps)
+<../image_result/Ag_TEcoeff_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 52--53
+ [][] 
+ []
+
+File: ../image_result/Au_TEcoeff_label.eps Graphic file (type eps)
+<../image_result/Au_TEcoeff_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 59--60
+ [][] 
+ []
+
+File: ../image_result/Al_TEcoeff_label.eps Graphic file (type eps)
+<../image_result/Al_TEcoeff_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 65--66
+ [][] 
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 43--68
+[][] []
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 43--68
+[] [] 
+ []
+
+[23
+
+] [24] [25]
+File: ../image_result/Cu_free_label.eps Graphic file (type eps)
+ <../image_result/Cu_free_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 82--83
+ [][] 
+ []
+
+File: ../image_result/Ag_free_label.eps Graphic file (type eps)
+<../image_result/Ag_free_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 88--89
+ [][] 
+ []
+
+File: ../image_result/Au_free_label.eps Graphic file (type eps)
+<../image_result/Au_free_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 95--96
+ [][] 
+ []
+
+File: ../image_result/Al_free_label.eps Graphic file (type eps)
+<../image_result/Al_free_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 101--102
+ [][] 
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 79--104
+[][] []
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 79--104
+[] [] 
+ []
+
+
+Overfull \hbox (5.2152pt too wide) in paragraph at lines 110--135
+[][]   [] 
+ []
+
+
+LaTeX Warning: Reference `heatexpantion' on page 26 undefined on input line 143
+.
+
+File: ../image_result/Cu_free_u0_label.eps Graphic file (type eps)
+<../image_result/Cu_free_u0_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 150--151
+ [][] 
+ []
+
+File: ../image_result/Ag_free_u0_label.eps Graphic file (type eps)
+<../image_result/Ag_free_u0_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 156--157
+ [][] 
+ []
+
+File: ../image_result/Au_free_u0_label.eps Graphic file (type eps)
+<../image_result/Au_free_u0_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 163--164
+ [][] 
+ []
+
+File: ../image_result/Al_free_u0_label.eps Graphic file (type eps)
+<../image_result/Al_free_u0_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 169--170
+ [][] 
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 147--172
+[][] []
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 147--172
+[] [] 
+ []
+
+) (../consideration/consideration.tex [26] [27] [28]
+第 5 章
+File: ../image/y0_no_largea_label.eps Graphic file (type eps)
+<../image/y0_no_largea_label.eps>
+File: ../image/y0_largea_label.eps Graphic file (type eps)
+ <../image/y0_largea_label.eps>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 28--42
+[][] [] 
+ []
+
+[29
+
+]
+
+LaTeX Warning: Command \r invalid in math mode on input line 48.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 48.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 48.
+
+[30]
+File: ../image_result/Al_lat_phonopy_label.eps Graphic file (type eps)
+ <../image_result/Al_lat_phonopy_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 69--70
+ [][] 
+ []
+
+File: ../image_result/Al_TEcoeff_phonopy_label.eps Graphic file (type eps)
+<../image_result/Al_TEcoeff_phonopy_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 75--76
+ [][] 
+ []
+
+File: ../image_result/Al_free_phonopy_label.eps Graphic file (type eps)
+<../image_result/Al_free_phonopy_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 82--83
+ [][] 
+ []
+
+File: ../image_result/Al_free_u0_phonopy_label.eps Graphic file (type eps)
+<../image_result/Al_free_u0_phonopy_label.eps>
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 88--89
+ [][] 
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 66--91
+[][] []
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 66--91
+[] [] 
+ []
+
+) (../summary/summary.tex [31] [32]
+第 6 章
+) [33
+
+] [34
+
+] (./Thesis.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3068 strings out of 493807
+ 44122 string characters out of 6151951
+ 119705 words of memory out of 5000000
+ 6451 multiletter control sequences out of 15000+600000
+ 24041 words of font info for 97 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 42i,12n,47p,535b,579s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Thesis.dvi (36 pages, 92764 bytes).

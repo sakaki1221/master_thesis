@@ -211,7 +211,7 @@ Phonopyは内部エネルギー（基底状態のエネルギー）を考慮に�
 PhonopyはVASPの計算から力の定数を取り出しPhononを計算するためVASPの計算結果に大きく依存する．
 また，Phonon計算時に生じた誤差は温度の上昇とともに増大するため，高温域の状態を確認したいのであれば計算精度を高める必要がある．
 計算精度による熱膨張の変化を図\ref{fig:phonopy}に示す．
-図\ref{fig:phonopy}(\subref{phonopy1}),(\subref{phonopy2}),(\subref{phonopy3})はVASPの計算精度に関わるパラメータENCUTとKPOINTSを変えることによって，Phonopyの熱膨張の計算結果がどのように変わるか示している．
+図\ref{fig:phonopy}(\subref{phonopy1}),(\subref{phonopy2}),(\subref{phonopy3})はPhonopyによるAlの熱膨張の結果である．VASPの計算精度に関わるパラメータENCUTとKPOINTSを変えることによって，Phonopyの熱膨張の計算結果がどのように変わるか示している．
 左側のグラフは横軸に体積，縦軸に自由エネルギーを取っており，各温度でフィッティングを行い最安定の体積を求めている．一番上のフィッティングカーブが0Kであり，一番下が1000Kと100K刻みで計算をしている．
 中央のグラフは横軸に温度，縦軸に体積をとっており，左のグラフから得られる各温度での最安定の体積である．．
 右側のグラフは横軸に温度，縦軸に体積膨張係数を取っており，中央のグラフの温度微分である．
@@ -240,7 +240,7 @@ PhonopyはVASPの計算から力の定数を取り出しPhononを計算するた
   {../image/figure_3.png}
   \subcaption{ENCUT=750, KPOINTS=12$\times$12$\times$12.}\label{phonopy3}
  \end{minipage}
- \caption{VASPの計算精度によるPhonopyの計算誤差．}\label{fig:phonopy}
+ \caption{VASPの計算精度によるPhonopyのAlの熱膨張の計算誤差．}\label{fig:phonopy}
 \end{figure}
 
 

@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2015.3.17)  2 FEB 2017 00:15
+This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2015.3.17)  2 FEB 2017 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -194,9 +194,6 @@ LaTeX Warning: Unused global option(s):
 (./Thesis.aux
 
 LaTeX Warning: Label `eq:y02' multiply defined.
-
-
-LaTeX Warning: Label `tb:free-diff3' multiply defined.
 
 )
 \openout1 = `Thesis.aux'.
@@ -428,8 +425,11 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 14--39
 [] [] 
  []
 
+[23
+
+]
 File: ../image_result/Cu_TEcoeff_label.eps Graphic file (type eps)
-<../image_result/Cu_TEcoeff_label.eps>
+ <../image_result/Cu_TEcoeff_label.eps>
 Overfull \hbox (6.35106pt too wide) in paragraph at lines 46--47
  [][] 
  []
@@ -462,11 +462,8 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 43--68
 [] [] 
  []
 
-[23
-
-] [24] [25]
 File: ../image_result/Cu_free_label.eps Graphic file (type eps)
- <../image_result/Cu_free_label.eps>
+<../image_result/Cu_free_label.eps>
 Overfull \hbox (6.35106pt too wide) in paragraph at lines 82--83
  [][] 
  []
@@ -505,11 +502,12 @@ Overfull \hbox (5.2152pt too wide) in paragraph at lines 110--135
  []
 
 
-LaTeX Warning: Reference `heatexpantion' on page 26 undefined on input line 143
+LaTeX Warning: Reference `heatexpantion' on page 24 undefined on input line 143
 .
 
+[24] [25] [26] [27]
 File: ../image_result/Cu_free_u0_label.eps Graphic file (type eps)
-<../image_result/Cu_free_u0_label.eps>
+ <../image_result/Cu_free_u0_label.eps>
 Overfull \hbox (6.35106pt too wide) in paragraph at lines 150--151
  [][] 
  []
@@ -542,7 +540,7 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 147--172
 [] [] 
  []
 
-) (../consideration/consideration.tex [26] [27] [28]
+) (../consideration/consideration.tex [28] [29]
 第 5 章
 File: ../image/y0_no_largea_label.eps Graphic file (type eps)
 <../image/y0_no_largea_label.eps>
@@ -552,7 +550,7 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 28--42
 [][] [] 
  []
 
-[29
+[30
 
 ]
 
@@ -564,46 +562,49 @@ LaTeX Warning: Command \r invalid in math mode on input line 48.
 
 LaTeX Warning: Command \r invalid in math mode on input line 48.
 
-[30]
+
+LaTeX Warning: Reference `sub@a0test4' on page 31 undefined on input line 53.
+
+[31]
 File: ../image_result/Al_lat_phonopy_label.eps Graphic file (type eps)
  <../image_result/Al_lat_phonopy_label.eps>
-Overfull \hbox (6.35106pt too wide) in paragraph at lines 69--70
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 61--62
  [][] 
  []
 
 File: ../image_result/Al_TEcoeff_phonopy_label.eps Graphic file (type eps)
 <../image_result/Al_TEcoeff_phonopy_label.eps>
-Overfull \hbox (6.35106pt too wide) in paragraph at lines 75--76
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 67--68
  [][] 
  []
 
 File: ../image_result/Al_free_phonopy_label.eps Graphic file (type eps)
 <../image_result/Al_free_phonopy_label.eps>
-Overfull \hbox (6.35106pt too wide) in paragraph at lines 82--83
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 74--75
  [][] 
  []
 
 File: ../image_result/Al_free_u0_phonopy_label.eps Graphic file (type eps)
 <../image_result/Al_free_u0_phonopy_label.eps>
-Overfull \hbox (6.35106pt too wide) in paragraph at lines 88--89
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 80--81
  [][] 
  []
 
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 66--91
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 58--83
 [][] []
  []
 
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 66--91
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 58--83
 [] [] 
  []
 
-) (../summary/summary.tex [31] [32]
+) (../summary/summary.tex [32] [33]
 第 6 章
-) [33
+[34
 
-] [34
+]) [35] [36
 
 ] (./Thesis.aux)
 
@@ -614,12 +615,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3068 strings out of 493807
- 44122 string characters out of 6151951
+ 3069 strings out of 493807
+ 44135 string characters out of 6151951
  119705 words of memory out of 5000000
- 6451 multiletter control sequences out of 15000+600000
+ 6452 multiletter control sequences out of 15000+600000
  24041 words of font info for 97 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  42i,12n,47p,535b,579s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Thesis.dvi (36 pages, 92764 bytes).
+Output written on Thesis.dvi (38 pages, 96748 bytes).

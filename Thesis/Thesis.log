@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2015.3.17)  2 FEB 2017 19:40
+This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2015.3.17)  2 FEB 2017 19:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -503,35 +503,35 @@ Overfull \hbox (5.2152pt too wide) in paragraph at lines 110--135
 
 File: ../image_result/Cu_free_u0_label.eps Graphic file (type eps)
 <../image_result/Cu_free_u0_label.eps>
-Overfull \hbox (6.35106pt too wide) in paragraph at lines 153--154
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 150--151
  [][] 
  []
 
 File: ../image_result/Ag_free_u0_label.eps Graphic file (type eps)
 <../image_result/Ag_free_u0_label.eps>
-Overfull \hbox (6.35106pt too wide) in paragraph at lines 159--160
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 156--157
  [][] 
  []
 
 File: ../image_result/Au_free_u0_label.eps Graphic file (type eps)
 <../image_result/Au_free_u0_label.eps>
-Overfull \hbox (6.35106pt too wide) in paragraph at lines 166--167
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 163--164
  [][] 
  []
 
 File: ../image_result/Al_free_u0_label.eps Graphic file (type eps)
 <../image_result/Al_free_u0_label.eps>
-Overfull \hbox (6.35106pt too wide) in paragraph at lines 172--173
+Overfull \hbox (6.35106pt too wide) in paragraph at lines 169--170
  [][] 
  []
 
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 150--175
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 147--172
 [][] []
  []
 
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 150--175
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 147--172
 [] [] 
  []
 
@@ -611,4 +611,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  42i,12n,47p,535b,579s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Thesis.dvi (38 pages, 96804 bytes).
+Output written on Thesis.dvi (38 pages, 97032 bytes).

@@ -48,11 +48,6 @@ MomentVASPの計算は最近接原子間距離の初期値である$a_0$にVASP�
 例えばAlであれば0KにおけるMomentVASPの最近接原子間距離は2.856$\mathrm{\AA}$, Phonopyは2.866$\mathrm{\AA}$であり，その差は0.01$\mathrm{\AA}$ある．Moment法は$a_0$の値を変えると$k$, $\gamma$を参照する$y$の値が変わり違う結果を出してくれる．
 そこで，MomentVASPの計算に使用していた$a_0$をPhonopyの0Kの原子間距離に変えることによって，結果が改善されるのではないかと考えた．
 Alによる結果を図\ref{fig:a0test}に示す．
-図中のラベルModify $a_0$がMomentVASPの$a_0$をPhonopyの0Kでの最近接原子間距離に変化させた計算結果である．
-(\subref{a0test1})より，$a_0$をPhonopyと揃えたため0Kで同じ距離から熱膨張を開始しているが，その後の変化は元のMomentVaspとあまり変わらない結果となった．(\subref{a0test2})の線膨張係数で比較すると若干ではあるがPhonopyと実験値に近づいていることがわかる．
-自由エネルギーの比較では(\subref{a0test3}),(\subref{a0test4})ともにModify $a_0$の値はPhonopyから遠ざかる方に変化している．
-また，1000Kでの最近接原子間距離の差は強引ではあるが小さくなっているにも関わらず，自由エネルギーの値の差は小さくならなかった．
-よって，0Kの最近節原子間距離をPhonopyと揃えるという試みは熱膨張係数のみ若干であるが改善されるという結果となった．
 
 \begin{figure}[htbp]
  \begin{minipage}[b]{0.5\linewidth}
@@ -82,3 +77,10 @@ Alによる結果を図\ref{fig:a0test}に示す．
  \end{minipage}
  \caption{AlのMomentVASPの$a_0$をPhonopyの0Kでの最近接原子間距離に変えることによる計算結果の変化．}\label{fig:a0test}
 \end{figure}
+
+図中のラベルModify $a_0$がMomentVASPの$a_0$をPhonopyの0Kでの最近接原子間距離に変化させた計算結果である．
+(\subref{a0test1})より，$a_0$をPhonopyと揃えたため0Kで同じ距離から熱膨張を開始しているが，その後の変化は元のMomentVaspとあまり変わらない結果となった．(\subref{a0test2})の線膨張係数で比較すると若干ではあるがPhonopyと実験値に近づいていることがわかる．
+自由エネルギーの比較では(\subref{a0test3}),(\subref{a0test4})ともにModify $a_0$の値はPhonopyから遠ざかる方に変化している．
+また，1000Kでの最近接原子間距離の差は強引ではあるが小さくなっているにも関わらず，自由エネルギーの値の差は小さくならなかった．
+よって，0Kの最近節原子間距離をPhonopyと揃えるという試みは熱膨張係数のみ若干であるが改善されるという結果となった．
+

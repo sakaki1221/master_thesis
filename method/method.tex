@@ -34,12 +34,13 @@ U(r)=\frac{D}{n-m}\left[m{\left(\frac{r_0}{r}\right)}^n-n{\left(\frac{r_0}{r}\ri
 \end{eqnarray}
 このポテンシャルはLennart-Jones型であり，$r$が原子間距離，$r_0$が最安定距離，$D$,$n$,$m$は原子によって定まるパラメータである．また，$a_0$は計算に用いた平衡原子間距離である．
 Cu, Ag, Auのパラメータを表\ref{tb:potential}に示す．例としてCuのポテンシャルの概形を図\ref{fig:lj}に示す．
+このポテンシャルの2次微分を$\frac{\delta^2 \varphi(r)}{\delta r^2}$，4次微分を$\frac{\delta^4 \varphi(r)}{\delta r^4}$とし，式(\ref{eq:momentk}),(\ref{eq:gamma})に代入することによって，$k$, $\gamma$を求め計算に利用する．
 \begin{table}[htbp]
 \caption{ポテンシャルのパラメータ．}
   \label{tb:potential}
   \centering
   \begin{tabular}{cccccc}\hline
-    元素 & $D$[J] & $n$ & $m$ & $r_0[\mathrm{\AA}$] & [$a_0\mathrm{\AA}$]\\ \hline \hline
+    元素 & $D$[J] & $n$ & $m$ & $r_0[\mathrm{\AA}$] & $a_0[\mathrm{\AA}]$\\ \hline \hline
     Cu & 2.8480708$\times10^{-20}$ & 9.0 & 5.5 & 2.5487 & 2.512666\\
     Ag & 2.295742359$\times10^{-20}$ & 11.5 & 5.50 & 2.876 & 2.846223\\
     Au & 3.23278851$\times10^{-20}$ & 10.5 & 5.50 & 2.8751 & 2.841578\\ \hline

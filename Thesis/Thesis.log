@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2015.3.17)  3 FEB 2017 12:20
+This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2015.3.17)  3 FEB 2017 12:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -301,10 +301,10 @@ File: ../image/fig2.eps Graphic file (type eps)
 
 ]
 
-LaTeX Warning: Command \r invalid in math mode on input line 42.
+LaTeX Warning: Command \r invalid in math mode on input line 43.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 42.
+LaTeX Warning: Command \r invalid in math mode on input line 43.
 
 File: ../image/lj.eps Graphic file (type eps)
 <../image/lj.eps> [14] [15]
@@ -312,73 +312,73 @@ File: ../image/fit5.eps Graphic file (type eps)
  <../image/fit5.eps>
 File: ../image/fit1label.eps Graphic file (type eps)
  <../image/fit1label.eps>
-Overfull \hbox (0.7833pt too wide) in paragraph at lines 103--104
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 104--105
  [][] 
  []
 
 File: ../image/fit2label.eps Graphic file (type eps)
 <../image/fit2label.eps>
-Overfull \hbox (0.7833pt too wide) in paragraph at lines 109--110
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 110--111
  [][] 
  []
 
 File: ../image/fit3label.eps Graphic file (type eps)
 <../image/fit3label.eps>
-Overfull \hbox (0.7833pt too wide) in paragraph at lines 116--117
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 117--118
  [][] 
  []
 
 File: ../image/fit_ag_label.eps Graphic file (type eps)
 <../image/fit_ag_label.eps>
-Overfull \hbox (0.7833pt too wide) in paragraph at lines 122--123
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 123--124
  [][] 
  []
 
 File: ../image/fit_au_label.eps Graphic file (type eps)
 <../image/fit_au_label.eps>
-Overfull \hbox (0.7833pt too wide) in paragraph at lines 128--129
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 129--130
  [][] 
  []
 
 File: ../image/fit_al_label.eps Graphic file (type eps)
 <../image/fit_al_label.eps>
-Overfull \hbox (0.7833pt too wide) in paragraph at lines 134--135
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 135--136
  [][] 
  []
 
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 100--137
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 101--138
 [][] []
  []
 
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 100--137
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 101--138
 [] []
  []
 
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 100--137
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 101--138
 [] [] 
  []
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 156.
+LaTeX Warning: Command \r invalid in math mode on input line 157.
 
 [16]
 File: ../image/all_k_label.eps Graphic file (type eps)
  <../image/all_k_label.eps>
-Overfull \hbox (0.7833pt too wide) in paragraph at lines 164--165
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 165--166
  [][] 
  []
 
 File: ../image/all_gamma_label.eps Graphic file (type eps)
 <../image/all_gamma_label.eps>
-Overfull \hbox (0.7833pt too wide) in paragraph at lines 170--171
+Overfull \hbox (0.7833pt too wide) in paragraph at lines 171--172
  [][] 
  []
 
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 161--173
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 162--174
 [][] [] 
  []
 
@@ -613,4 +613,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  42i,12n,47p,535b,579s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Thesis.dvi (39 pages, 98060 bytes).
+Output written on Thesis.dvi (39 pages, 98480 bytes).

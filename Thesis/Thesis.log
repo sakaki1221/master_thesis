@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2015.3.17)  3 FEB 2017 13:09
+This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2015.3.17)  1 MAR 2017 12:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -289,13 +289,6 @@ T1/cmr/m/n/12 2 \JY1/mc/m/n/12 近接原子である ． 同様の操作で $[][
 
 [10] [11]) (../method/method.tex [12]
 第 3 章
-
-Overfull \hbox (1.63762pt too wide) in paragraph at lines 2--3
-[]\JY1/mc/m/n/12 本章では ， \OT1/cmr/m/n/12 Mo-ment \JY1/mc/m/n/12 法による計
-算手法 ， また ， 比較対象である ， \OT1/cmr/m/n/12 Phonon-DOS \JY1/mc/m/n/12 
-法 ， \OT1/cmr/m/n/12 Phonopy
- []
-
 File: ../image/fig2.eps Graphic file (type eps)
 <../image/fig2.eps> [13
 
@@ -605,12 +598,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3071 strings out of 493807
- 44123 string characters out of 6151951
+ 3072 strings out of 493807
+ 44128 string characters out of 6151951
  119705 words of memory out of 5000000
- 6450 multiletter control sequences out of 15000+600000
+ 6451 multiletter control sequences out of 15000+600000
  24041 words of font info for 97 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 42i,12n,47p,535b,579s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,12n,47p,535b,577s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Thesis.dvi (39 pages, 98480 bytes).
+Output written on Thesis.dvi (39 pages, 98656 bytes).
